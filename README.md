@@ -61,3 +61,4 @@ F5 キーを押して実行します。
 メモリ効率: 画像プレビューにおいて BitmapCacheOption.OnLoad を使用しているため、プレビュー中のファイルが Windows システムによってロックされず、表示したままリネームや削除が可能です。
 
 仮想化: ListView の VirtualizingPanel を有効にしており、数千個のアイテムを表示してもメモリ消費を抑える設計になっています。
+<img width="1228" height="737" alt="スクリーンショット 2026-05-09 105746" src="https://github.com/user-attachments/assets/bc4c2e38-85ca-475b-9c80-1ce8d9d42e25" />
